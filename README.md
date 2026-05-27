@@ -73,9 +73,9 @@ Sou professor de tecnologia, desenvolvedor front-end e fundador de uma startup d
 
 <div align="center">
 
-![Everton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonanalista1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Everton's GitHub Stats](https://github-readme-stats.vhercel.app/api?username=evertonanalista1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonanalista1&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonanalista1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
@@ -85,7 +85,7 @@ Sou professor de tecnologia, desenvolvedor front-end e fundador de uma startup d
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=evertonanalista1&theme=tokyonight&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=evertonanalista1&theme=tokyonight&no-frame=true&row=1&column=4)
 
 </div>
 
