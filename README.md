@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Everton 👋
+# Olá, eu sou o Everton 
 
 ### Professor de Tecnologia · Desenvolvedor Front-End · Fundador de Startup de IA
 
